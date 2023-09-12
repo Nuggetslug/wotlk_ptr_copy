@@ -7,7 +7,7 @@ Copies WoTLK Classic addons, character configuration, macros, game settings to t
 3. You have logged into each of the above character(s) one time.
 
 # How To Use
-1. Place ptr_copy.bat in the same parent directory that contains /_classic_/ and /_classic_ptr_/ directories
+1. Place ptr_copy.bat in the same parent directory that contains /\_classic\_/ and /\_classic_ptr\_/ directories
 	- This should directly in the /something/World of Warcraft/ directory
 	- You can open this location by clicking the Cog icon on the right-hand portion of the "Play" button in Battle.net Launcher and clicking "Show in Explorer" optional
 2. After verifying you have run all steps in the above "Assumptions / Prerequisite Steps" section, double click on ptr_copy.bat to start the copy process.

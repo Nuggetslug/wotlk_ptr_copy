@@ -6,6 +6,7 @@ Copies WoTLK Classic addons, character configuration, macros, game settings to t
 2. The _classic_ and _classic_ptr_ directories exist within the same /World of Warcraft/ directory (Usually C:/Program Files (x86)/World of Warcraft/). This should be true if you installed the PTR Client with default options.
 3. You have used the "Copy Character" function (from character select screen) to copy *all* desired characters.
 4. You have logged into each of the above character(s) one time.
+5. Update all addons on Live WoTLK CurseForge before running this script.
 
 # How To Use
 1. Place ptr_copy.bat in the same parent directory that contains /\_classic\_/ and /\_classic_ptr\_/ directories
@@ -18,6 +19,7 @@ Copies WoTLK Classic addons, character configuration, macros, game settings to t
 # Notes
 1. The "Copy Account Data" will do some *but not all* data copying and is optional for this script.
 2. This will *completely wipe any existing PTR config* and copy all Live WoTLK data into your PTR data for both account-wide and character-specific settings.
+3. Some addon settings (profiles) may not copy over perfectly.
 
 # Sample Output
 	Have you the installed the WoTLK PTR Client, copied all desired characters to PTR, and logged into each character as per the readme? (Y/N) y

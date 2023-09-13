@@ -7,6 +7,7 @@ Copies WoTLK Classic addons, character configuration, macros, game settings to t
 3. You have used the "Copy Character" function (from character select screen) to copy *all* desired characters.
 4. You have logged into each of the above character(s) one time.
 5. Update all addons on Live WoTLK CurseForge before running this script.
+6. If you have an existing _classic_ptr_ install (not just from step 1, if you tinkered with character settings prior to this script), its recommended to backup the folder first.
 
 # How To Use
 1. Place ptr_copy.bat in the same parent directory that contains /\_classic\_/ and /\_classic_ptr\_/ directories
